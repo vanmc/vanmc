@@ -1,7 +1,7 @@
 ## Olá, Devs! 👋
 Meu nome é Vanessa Coutinho e seja bem vindo (a) ao meu perfil GitHub! Atualmente, estou cursando Engenharia de Software e sou apaixonada por descobrir quais áreas da tecnologia e desenvolvimento mais me empolgam. No momento, meus interesses incluem desenvolvimento web e mobile, mas estou aberta a qualquer possibilidade e ansiosa para ganhar experiência prática! 
 
-Estou em transição de carreira, pois sou também formada em bacharelado em Educação Física. Estou ativamente aprendendo e trabalhando em projetos pessoais para desenvolver minhas habilidades e estou aberta a oportunidades de estágio, colaborações e aprendizado com a comunidade. Sinta-se à vontade para entrar em contato!
+Estou em transição de carreira, pois minha primeira graduação e atuação foi como bacharel em Educação Física. Estou ativamente aprendendo e trabalhando em projetos pessoais para desenvolver minhas habilidades e estou aberta a oportunidades de estágio, colaborações e aprendizado com a comunidade. Sinta-se à vontade para entrar em contato!
 
 ## 🌱 No momento, estou aprendendo: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
