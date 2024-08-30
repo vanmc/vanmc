@@ -1,20 +1,31 @@
-## Olá, Devs! 👋
-Meu nome é Vanessa Coutinho e seja bem vindo (a) ao meu perfil GitHub! Atualmente, estou cursando Engenharia de Software e sou apaixonada por descobrir quais áreas da tecnologia e desenvolvimento mais me empolgam. No momento, meus interesses incluem desenvolvimento web e mobile, mas estou aberta a qualquer possibilidade e ansiosa para ganhar experiência prática! 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6045A1&center=true&vCenter=true&width=435&lines=Ol%C3%A1+ol%C3%A1%2C+mundo!;Hello+there%2C+world!" alt="Typing SVG" /></a>
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = "100%"/>
 
-Estou em transição de carreira, pois minha primeira graduação e atuação foi como bacharel em Educação Física. Estou ativamente aprendendo e trabalhando em projetos pessoais para desenvolver minhas habilidades e estou aberta a oportunidades de estágio, colaborações e aprendizado com a comunidade. Sinta-se à vontade para entrar em contato!
+## About me:
+<div align="center" width="100%">
+<img align ="left" width="20%" height="40%" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" />
+<ul align="center">
+          <p>Currently undergrad in Software Engineering;</p>
+          <p>At the moment, I'm really enjoying learning Front-End;</p>
+          <p>Hoping to become a Web and Mobile Developer in a near future;</p>
+          <p>I love to cook, play videogames, listen to music (mostly pop) and watch movies and tvseries;</p>
+          <p>I love animals of all kinds. I have 8 cats and 8 dogs, they're my babies.</p>
+</ul>
+</div>
 
-## 🌱 No momento, estou aprendendo: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+## 🌱 Learning: 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git" />
+</a>
 
-          
-## 📫 Contatos: 
+## 📫 Want to reach out? 
 <div>
 <a href = "mailto:vanessamarianacoutinho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vanessamcgcoutinho/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-          
-
-
-## English translation:
-*My name is Vanessa Coutinho, and welcome to my GitHub profile! I am currently pursuing a degree in Software Engineering and am passionate about discovering which areas of technology and development excite me the most. At the moment, my interests include web and mobile development, but I am open to any possibilities and eager to gain practical experience! I am in a career transition, as I also hold a degree in Physical Education. I am actively learning and working on personal projects to develop my skills and am open to opportunities for internships, collaborations, and learning from the community. Feel free to reach out!* 
+<div align='center'>
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanmc&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+</div>
 
