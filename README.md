@@ -17,7 +17,7 @@
 
 ## 🌱 Learning: 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,vite" />
 </a>
 
 ## 📫 Want to reach out? 
