@@ -1,7 +1,6 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6045A1&center=true&vCenter=true&width=435&lines=Ol%C3%A1+ol%C3%A1%2C+mundo!;Hello+there%2C+world!" alt="Typing SVG" /></a>
+<div align="center" width="100%">
+<a href="https://git.io/typing-svg"><img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A493FF&center=true&random=true&width=435&lines=Ol%C3%A1%2C+ol%C3%A1%2C+mundo!;Hey+there%2C+world!;%C2%A1Hey%2C+mundo!;Salut%2C+monde!;%E3%82%84%E3%81%A3%E3%81%BB%E3%83%BC%E3%80%81%E4%B8%96%E7%95%8C;%E5%98%BF%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81;%EC%95%88%EB%85%95%2C+%EC%84%B8%EC%83%81!;Hallo%2C+hallo%2C+Welt!" alt="Typing SVG" /></a></a>
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width = "100%"/>
 
 ## About me:
 <div align="center" width="100%">
@@ -55,6 +54,19 @@
 <a href = "mailto:vanessamarianacoutinho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vanessamcgcoutinho/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanmc&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanmc&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="130" alt="languages graph"  />
+</div>
+
+###
+
+###
+
+###
 
 ###
 
