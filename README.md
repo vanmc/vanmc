@@ -49,6 +49,13 @@
 
 ###
 
+## 📝 Mostly used IDE: 
+<br clear="both">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo"  />
+  <img width="10" />
+</div>
+
 ## 📫 Want to reach out? 
 <div>
 <a href = "mailto:vanessamarianacoutinho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
