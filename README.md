@@ -42,8 +42,6 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="52" alt="typescript logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=vite" height="52" alt="vite logo"  />
 </div>
 
